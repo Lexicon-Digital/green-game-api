@@ -1,0 +1,25 @@
+{
+  "name": "green-game-api",
+  "version": "1.0.0",
+  "description": "API layer for green game application",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexicon-Digital/green-game-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexicon-Digital/green-game-api/issues"
+  },
+  "homepage": "https://github.com/Lexicon-Digital/green-game-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
